@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-navbar": "/node-modules/uview-ui/components/u-navbar/u-navbar",
+    "u-row": "/node-modules/uview-ui/components/u-row/u-row",
+    "u-col": "/node-modules/uview-ui/components/u-col/u-col",
+    "u--text": "/node-modules/uview-ui/components/u--text/u--text",
+    "u--input": "/node-modules/uview-ui/components/u--input/u--input",
+    "u-button": "/node-modules/uview-ui/components/u-button/u-button"
+  }
+}
